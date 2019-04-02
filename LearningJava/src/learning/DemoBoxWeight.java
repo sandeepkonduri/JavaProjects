@@ -67,7 +67,6 @@ public class DemoBoxWeight {
         vol = bw2.volume();
         
         System.out.println("The volume of the box BW2 is " + vol + " ~ The Weight of the box BW2 is "+ bw2.g);
-        System.out.println("The volume of the box BW2 is " + vol + " ~ The Weight of the box BW2 is "+ bw2.g);
         
     }
 }
